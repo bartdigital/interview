@@ -50,7 +50,7 @@ Desenvolver uma aplicação que administre candidatos.
 * Os erros do serviço/back-end(NodeJS) devem ser tratados e enviados no modelo de **Status HTTP** para o ReactJS.
 * O serviço/back-end(NodeJS) deve realizar uma **validação** no cadastro de candidato, para **permitir apenas um cadastro** por **CPF**.
 
-##Pontos extras
+## Pontos extras ## 
 - Seguir as boas práticas com ReactJS e NodeJS.
 - Desenvolver HTML semântico.
 - Componentizar elementos reutilizáveis.
