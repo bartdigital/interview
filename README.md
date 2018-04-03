@@ -1,10 +1,10 @@
 
-#Teste para candidatos à vaga de desenvolvedor FullStack
+#Teste para candidatos à vaga de desenvolvedor FullStack#
 
-##Objetivo
+##Objetivo##
 Desenvolver uma aplicação que administre candidatos.
 
-## Pre-requisitos
+## Pre-requisitos ##
 * Git
 * NodeJS
 * NPM/Yarn
