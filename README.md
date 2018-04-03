@@ -13,7 +13,6 @@ Desenvolver uma aplicação que administre candidatos.
  
 ##Instruções
 * Desenvolva a aplicação utilizando as tecnologias: ReactJs, NodeJS, Express e MongoDB.
-* Utilize a estrutura do repositório como base do desenvolvimento.
 * Após terminar seu teste submeta o projeto em um repositório no Github para guilherme@bartdigital.com.br.
  
 ##Especificações técnicas
