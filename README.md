@@ -1,7 +1,7 @@
 
-#Teste para candidatos à vaga de desenvolvedor FullStack#
+## Teste para candidatos à vaga de desenvolvedor FullStack ##
 
-##Objetivo##
+## Objetivo ##
 Desenvolver uma aplicação que administre candidatos.
 
 ## Pre-requisitos ##
@@ -11,11 +11,11 @@ Desenvolver uma aplicação que administre candidatos.
 * MongoDB
 
  
-##Instruções
+## Instruções ##
 * Desenvolva a aplicação utilizando as tecnologias: ReactJs, NodeJS, Express e MongoDB.
 * Após terminar seu teste submeta o projeto em um repositório no Github para guilherme@bartdigital.com.br.
  
-##Especificações técnicas
+## Especificações técnicas ## 
 
 1. Utilizar componentes http://materializecss.com/
 
